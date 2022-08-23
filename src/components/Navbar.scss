@@ -1,0 +1,12 @@
+header {
+  background-color: var(--indigo-9);
+  color: var(--gray-3);
+  display: flex;
+  justify-content: space-between;
+  padding: var(--size-2) var(--size-10);
+
+
+  h2 {
+    font-size: var(--font-size-4);
+  }
+}
