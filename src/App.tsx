@@ -55,7 +55,9 @@ export default function App() {
           'December',
         ],
         crosshair: true,
-        title: 'Months',
+        title: {
+          text: 'Months',
+        },
       },
       yAxis: {
         title: {
