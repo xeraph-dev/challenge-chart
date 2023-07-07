@@ -35,7 +35,7 @@
     "highcharts-react-official": "^3.1.0",
     "prettier": "^2.7.1",
     "sass": "^1.54.5",
-    "stylelint": "^14.11.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^28.0.0",
     "stylelint-scss": "^4.3.0",
